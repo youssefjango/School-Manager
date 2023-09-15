@@ -1,0 +1,10 @@
+Social_Science 2341 2749:
+Teachers
+Piper Pullie F PulliePip@gmail.com 31 5 9978 PhD 34.0 Phylosophy PartT
+Enrique Wale M EnriqueRockNRoll@gmail.com 33 9 9276 Master 17.0 Risks PartT
+Brody Hoisington F BrodyHoising@gmail.com 55 15 4497 Master 35.0 Knowledge fullTime
+Katie Carino F CarinoKatie@yahoo.ca 69 21 1368 Master 33.0 Psychology PartT
+Dean
+Enrique Wale M EnriqueRockNRoll@gmail.com 33 9 9276 Master 17.0 Risks PartT 5
+Staffs
+Faith Hocker F HockerFaith@gmail.ca 28 38 2380 SchoolManagement 2.0

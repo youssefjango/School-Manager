@@ -1,0 +1,13 @@
+English 6543 2246:
+Teachers
+Abby Bobby F Abby.Elbie@yahoo.com 69 31 3522 Bachelor 21.0 Theater PartT
+Abby Elbie F ElbieSheHer@gmail.com 34 16 2256 Bachelor 39.0 IndeginousCulture fullTime
+Kyler Kudzma M KykyKyzma@gmail.com 30 5 2397 Master 39.0 Humanity fullTime
+Vivian Felmlee F FelmleVivi@hotmail.com 35 10 2075 Phd 35.0 Sexualities fullTime
+Erin MacLeod F erinMacLeod@outlook.com 39 10 8795 Phd 38.0 English_Introduction fullTime
+Dean
+Erin MacLeod F erinMacLeod@outlook.com 39 10 8795 phd 38.0 English_Introduction fullTime 3
+Staffs
+Muhammad Raisor M MuhammadR@gmail.com 25 0 8145 Corrector 19.0
+BenMouny Jannat F benmounyjanat@gmail.com 30 10 7765 Writter 10.0
+Barakat Najat F najat.youyou@hotmail.com 45 10 1265 Mla 15.0

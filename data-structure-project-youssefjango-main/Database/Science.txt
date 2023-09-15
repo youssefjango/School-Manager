@@ -1,0 +1,10 @@
+Science 1432 2245:
+Teachers
+Grant Dies M grant.dies@yahoo.ca 61 40 5288 Bachelor 20.0 Chemistry PartT
+Roland Pomiecko M pomiecko1995@hotmail.com 54 23 6465 Bachelor 36.0 Programming fullTime
+Katie Balko F KatieBalko@Hushmail.com 37 11 8783 Master 29.0 Mathematics PartT
+Mateo Hoetger M hoetger@gmail.com 34 5 6465 Phd 30.0 Mathematics PartT
+Dean
+Mateo Hoetger M hoetger@gmail.com 34 5 6465 PhD 30.0 Mathematics PartT 3
+Staffs
+Rita Grosvenor F Grosvenor.Rita@hotmail.com 26 1 2136 Technician 26.0
