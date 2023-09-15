@@ -1,17 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XpZX1row)
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/XpZX1row)
-# Data Structures & OOP - Project
-
-This template repository is the starter project for Programming 2 Project. Written in Java, and tested with Gradle/JUnit.
-
-### Project Description
-
-**Instructions**
-
-This is an individual project that has three parts: an analysis and design document, the project code, and a test suite.
-
-**Project Requirement**
-
 • Pseudocode for the main methods  
 • Completed UML Class Diagrams for all classes and interfaces with their relationship
 • The implementation of all required features (the source code)  
